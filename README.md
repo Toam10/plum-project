@@ -10,7 +10,7 @@ NBA Project FrontEnd
 
 2. (npm install dep...)
 
-3. (npm start) in the nba-project dire to start the project.
+3. (npm start) in the forntend folder dire to start the project.
 
 4. (search Field) search the name of the player
 
